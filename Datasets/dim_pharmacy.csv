@@ -1,0 +1,121 @@
+PharmacyID,PharmacyName,Country,Region,City,PharmacyType,OpenDate,StoreSizeBand,Latitude,Longitude
+PH0001,Naples HealthPoint #001,Italy,Campania,Naples,Suburban,2025-04-03,M,40.839137,14.279288
+PH0002,Innsbruck HealthPoint #002,Austria,Tyrol,Innsbruck,Urban,2011-12-21,M,47.254915,11.410136
+PH0003,Barcelona HealthPoint #003,Spain,Catalonia,Barcelona,Urban,2025-04-20,M,41.38609,2.170678
+PH0004,Katowice HealthPoint #004,Poland,Silesian,Katowice,Suburban,2018-07-18,L,50.260198,19.043129
+PH0005,Poznan HealthPoint #005,Poland,Greater Poland,Poznan,Urban,2021-07-12,S,52.408932,16.920617
+PH0006,Seville HealthPoint #006,Spain,Andalusia,Seville,Suburban,2019-04-22,S,37.405473,-5.994149
+PH0007,Cologne HealthPoint #007,Germany,North Rhine-Westphalia,Cologne,Rural,2017-07-25,M,50.948505,6.97788
+PH0008,Gdansk HealthPoint #008,Poland,Pomeranian,Gdansk,Rural,2021-09-15,M,54.347547,18.637454
+PH0009,Munich HealthPoint #009,Germany,Bavaria,Munich,Urban,2010-08-03,S,48.154575,11.59289
+PH0010,Liège HealthPoint #010,Belgium,Wallonia,Liège,Urban,2011-01-16,L,50.615562,5.574039
+PH0011,Naples HealthPoint #011,Italy,Campania,Naples,Rural,2025-04-06,M,40.860984,14.273602
+PH0012,Salzburg HealthPoint #012,Austria,Salzburg,Salzburg,Suburban,2019-12-13,M,47.811951,13.065839
+PH0013,Paris HealthPoint #013,France,Île-de-France,Paris,Rural,2020-04-13,S,48.849174,2.352543
+PH0014,Berlin HealthPoint #014,Germany,Berlin,Berlin,Suburban,2024-01-28,S,52.527791,13.420219
+PH0015,Bordeaux HealthPoint #015,France,Nouvelle-Aquitaine,Bordeaux,Rural,2010-01-25,L,44.853502,-0.577626
+PH0016,Amsterdam HealthPoint #016,Netherlands,North Holland,Amsterdam,Urban,2014-01-19,M,52.380321,4.918529
+PH0017,Marseille HealthPoint #017,France,Provence-Alpes-Côte d'Azur,Marseille,Suburban,2013-12-07,M,43.289428,5.370552
+PH0018,Madrid HealthPoint #018,Spain,Community of Madrid,Madrid,Urban,2016-05-01,L,40.402723,-3.68389
+PH0019,Rotterdam HealthPoint #019,Netherlands,South Holland,Rotterdam,Suburban,2024-07-02,M,51.925637,4.475611
+PH0020,Lille HealthPoint #020,France,Hauts-de-France,Lille,Suburban,2021-11-06,S,50.634492,3.062641
+PH0021,Utrecht HealthPoint #021,Netherlands,Utrecht,Utrecht,Urban,2016-04-09,M,52.094336,5.128503
+PH0022,Rotterdam HealthPoint #022,Netherlands,South Holland,Rotterdam,Suburban,2019-03-07,S,51.937908,4.484728
+PH0023,Rotterdam HealthPoint #023,Netherlands,South Holland,Rotterdam,Urban,2014-05-27,L,51.943687,4.478365
+PH0024,Paris HealthPoint #024,France,Île-de-France,Paris,Rural,2017-04-11,L,48.850568,2.361238
+PH0025,Poznan HealthPoint #025,Poland,Greater Poland,Poznan,Urban,2022-02-14,S,52.422342,16.929457
+PH0026,Seville HealthPoint #026,Spain,Andalusia,Seville,Suburban,2013-08-08,S,37.395178,-5.995529
+PH0027,Vienna HealthPoint #027,Austria,Vienna,Vienna,Suburban,2023-06-06,M,48.200522,16.375502
+PH0028,Venice HealthPoint #028,Italy,Veneto,Venice,Suburban,2021-03-04,M,45.438176,12.309503
+PH0029,Munich HealthPoint #029,Germany,Bavaria,Munich,Suburban,2021-09-05,S,48.116844,11.601782
+PH0030,Warsaw HealthPoint #030,Poland,Masovian,Warsaw,Rural,2016-01-03,S,52.231811,21.015092
+PH0031,Munich HealthPoint #031,Germany,Bavaria,Munich,Rural,2015-07-02,S,48.130888,11.595769
+PH0032,Lyon HealthPoint #032,France,Auvergne-Rhône-Alpes,Lyon,Suburban,2022-10-23,M,45.779095,4.845331
+PH0033,Rome HealthPoint #033,Italy,Lazio,Rome,Suburban,2010-08-14,M,41.917483,12.51293
+PH0034,Ghent HealthPoint #034,Belgium,East Flanders,Ghent,Suburban,2012-09-26,M,51.069765,3.698505
+PH0035,Bilbao HealthPoint #035,Spain,Basque Country,Bilbao,Urban,2020-12-05,S,43.276557,-2.920584
+PH0036,Bilbao HealthPoint #036,Spain,Basque Country,Bilbao,Suburban,2023-03-23,L,43.253862,-2.91639
+PH0037,Hamburg HealthPoint #037,Germany,Hamburg,Hamburg,Urban,2019-07-26,M,53.569881,10.002284
+PH0038,Hamburg HealthPoint #038,Germany,Hamburg,Hamburg,Suburban,2011-06-16,S,53.534335,9.990833
+PH0039,Lille HealthPoint #039,France,Hauts-de-France,Lille,Suburban,2016-03-12,M,50.620397,3.075495
+PH0040,Seville HealthPoint #040,Spain,Andalusia,Seville,Urban,2025-03-28,S,37.399414,-6.003924
+PH0041,Rome HealthPoint #041,Italy,Lazio,Rome,Urban,2019-10-22,M,41.913335,12.508677
+PH0042,Rotterdam HealthPoint #042,Netherlands,South Holland,Rotterdam,Rural,2022-04-16,M,51.914836,4.458312
+PH0043,Cologne HealthPoint #043,Germany,North Rhine-Westphalia,Cologne,Rural,2021-01-01,M,50.91856,6.963731
+PH0044,Liège HealthPoint #044,Belgium,Wallonia,Liège,Rural,2022-12-14,L,50.650259,5.575144
+PH0045,Berlin HealthPoint #045,Germany,Berlin,Berlin,Suburban,2023-02-19,M,52.52473,13.398462
+PH0046,Bordeaux HealthPoint #046,France,Nouvelle-Aquitaine,Bordeaux,Rural,2022-09-04,S,44.845516,-0.585267
+PH0047,Munich HealthPoint #047,Germany,Bavaria,Munich,Suburban,2017-07-05,S,48.137841,11.585037
+PH0048,Lille HealthPoint #048,France,Hauts-de-France,Lille,Urban,2018-06-13,M,50.638796,3.046829
+PH0049,Warsaw HealthPoint #049,Poland,Masovian,Warsaw,Rural,2013-03-26,M,52.211839,21.030542
+PH0050,Arnhem HealthPoint #050,Netherlands,Gelderland,Arnhem,Suburban,2018-07-13,S,51.968768,5.902798
+PH0051,Kraków HealthPoint #051,Poland,Lesser Poland,Kraków,Urban,2011-12-09,L,50.047002,19.946981
+PH0052,Ghent HealthPoint #052,Belgium,East Flanders,Ghent,Urban,2020-10-02,S,51.068975,3.730939
+PH0053,Hamburg HealthPoint #053,Germany,Hamburg,Hamburg,Rural,2016-09-13,L,53.540429,9.996952
+PH0054,Ghent HealthPoint #054,Belgium,East Flanders,Ghent,Suburban,2016-03-13,M,51.03764,3.728486
+PH0055,Frankfurt HealthPoint #055,Germany,Hesse,Frankfurt,Suburban,2012-12-25,L,50.113759,8.691739
+PH0056,Milan HealthPoint #056,Italy,Lombardy,Milan,Urban,2022-05-16,L,45.447516,9.191135
+PH0057,Seville HealthPoint #057,Spain,Andalusia,Seville,Suburban,2010-01-21,S,37.405865,-5.99438
+PH0058,Utrecht HealthPoint #058,Netherlands,Utrecht,Utrecht,Urban,2021-08-21,L,52.106746,5.103218
+PH0059,Bordeaux HealthPoint #059,France,Nouvelle-Aquitaine,Bordeaux,Urban,2013-11-22,S,44.843674,-0.583669
+PH0060,Munich HealthPoint #060,Germany,Bavaria,Munich,Suburban,2022-06-18,S,48.127481,11.594552
+PH0061,Naples HealthPoint #061,Italy,Campania,Naples,Rural,2024-04-28,L,40.856337,14.26483
+PH0062,Milan HealthPoint #062,Italy,Lombardy,Milan,Urban,2020-11-17,M,45.463415,9.209411
+PH0063,St. Pölten HealthPoint #063,Austria,Lower Austria,St. Pölten,Urban,2014-05-06,S,48.186173,15.610954
+PH0064,Gdansk HealthPoint #064,Poland,Pomeranian,Gdansk,Urban,2010-03-13,S,54.361045,18.656883
+PH0065,Madrid HealthPoint #065,Spain,Community of Madrid,Madrid,Urban,2011-06-22,S,40.423668,-3.699075
+PH0066,St. Pölten HealthPoint #066,Austria,Lower Austria,St. Pölten,Suburban,2016-05-21,L,48.218787,15.627676
+PH0067,Utrecht HealthPoint #067,Netherlands,Utrecht,Utrecht,Urban,2023-11-19,M,52.079219,5.106855
+PH0068,Poznan HealthPoint #068,Poland,Greater Poland,Poznan,Rural,2010-05-04,S,52.408298,16.923236
+PH0069,Milan HealthPoint #069,Italy,Lombardy,Milan,Suburban,2022-11-11,L,45.463885,9.18033
+PH0070,Marseille HealthPoint #070,France,Provence-Alpes-Côte d'Azur,Marseille,Suburban,2013-08-04,M,43.297991,5.368205
+PH0071,Venice HealthPoint #071,Italy,Veneto,Venice,Rural,2014-05-18,M,45.455773,12.316109
+PH0072,Lille HealthPoint #072,France,Hauts-de-France,Lille,Suburban,2010-10-13,M,50.610472,3.059249
+PH0073,Lyon HealthPoint #073,France,Auvergne-Rhône-Alpes,Lyon,Urban,2022-01-26,L,45.775976,4.840816
+PH0074,Vienna HealthPoint #074,Austria,Vienna,Vienna,Suburban,2021-07-14,L,48.212091,16.39325
+PH0075,Naples HealthPoint #075,Italy,Campania,Naples,Urban,2020-12-13,M,40.834294,14.25401
+PH0076,Graz HealthPoint #076,Austria,Styria,Graz,Suburban,2010-07-22,S,47.066587,15.423695
+PH0077,Bordeaux HealthPoint #077,France,Nouvelle-Aquitaine,Bordeaux,Suburban,2011-04-15,M,44.827129,-0.585483
+PH0078,Brussels HealthPoint #078,Belgium,Brussels-Capital,Brussels,Urban,2020-08-27,L,50.852878,4.346851
+PH0079,Gdansk HealthPoint #079,Poland,Pomeranian,Gdansk,Urban,2023-11-24,M,54.369348,18.626901
+PH0080,Katowice HealthPoint #080,Poland,Silesian,Katowice,Rural,2021-11-04,S,50.26588,19.020216
+PH0081,Munich HealthPoint #081,Germany,Bavaria,Munich,Rural,2019-03-13,M,48.13473,11.590916
+PH0082,Antwerp HealthPoint #082,Belgium,Flanders,Antwerp,Suburban,2024-03-30,S,51.212347,4.399517
+PH0083,Bruges HealthPoint #083,Belgium,West Flanders,Bruges,Urban,2017-10-05,M,51.209544,3.241981
+PH0084,Frankfurt HealthPoint #084,Germany,Hesse,Frankfurt,Urban,2025-07-03,S,50.098969,8.689483
+PH0085,Milan HealthPoint #085,Italy,Lombardy,Milan,Urban,2011-12-03,L,45.478229,9.199839
+PH0086,Frankfurt HealthPoint #086,Germany,Hesse,Frankfurt,Suburban,2014-05-05,S,50.124573,8.667691
+PH0087,Lyon HealthPoint #087,France,Auvergne-Rhône-Alpes,Lyon,Suburban,2017-03-06,M,45.780315,4.828348
+PH0088,Madrid HealthPoint #088,Spain,Community of Madrid,Madrid,Urban,2012-07-19,M,40.406089,-3.687817
+PH0089,Venice HealthPoint #089,Italy,Veneto,Venice,Urban,2013-07-27,M,45.445908,12.308896
+PH0090,Brussels HealthPoint #090,Belgium,Brussels-Capital,Brussels,Suburban,2019-05-27,S,50.842769,4.34164
+PH0091,Bruges HealthPoint #091,Belgium,West Flanders,Bruges,Urban,2014-04-12,M,51.193725,3.238558
+PH0092,Liège HealthPoint #092,Belgium,Wallonia,Liège,Suburban,2020-10-08,S,50.638246,5.587458
+PH0093,Barcelona HealthPoint #093,Spain,Catalonia,Barcelona,Suburban,2017-12-11,M,41.402991,2.159534
+PH0094,Poznan HealthPoint #094,Poland,Greater Poland,Poznan,Urban,2019-09-22,M,52.42315,16.936803
+PH0095,Munich HealthPoint #095,Germany,Bavaria,Munich,Urban,2015-07-25,L,48.152123,11.580034
+PH0096,Marseille HealthPoint #096,France,Provence-Alpes-Côte d'Azur,Marseille,Urban,2014-10-09,S,43.300151,5.36576
+PH0097,Frankfurt HealthPoint #097,Germany,Hesse,Frankfurt,Urban,2010-11-27,S,50.112396,8.698894
+PH0098,Venice HealthPoint #098,Italy,Veneto,Venice,Urban,2022-11-22,S,45.430729,12.318605
+PH0099,Lyon HealthPoint #099,France,Auvergne-Rhône-Alpes,Lyon,Rural,2021-08-17,S,45.770541,4.822821
+PH0100,Lille HealthPoint #100,France,Hauts-de-France,Lille,Suburban,2010-08-19,S,50.625093,3.054372
+PH0101,Berlin HealthPoint #101,Germany,Berlin,Berlin,Urban,2013-01-08,M,52.518132,13.405976
+PH0102,Graz HealthPoint #102,Austria,Styria,Graz,Suburban,2025-04-20,M,47.065632,15.43033
+PH0103,Salzburg HealthPoint #103,Austria,Salzburg,Salzburg,Urban,2017-06-25,S,47.805819,13.057069
+PH0104,Liège HealthPoint #104,Belgium,Wallonia,Liège,Suburban,2017-11-16,L,50.648098,5.581969
+PH0105,Naples HealthPoint #105,Italy,Campania,Naples,Urban,2010-07-21,S,40.837443,14.264356
+PH0106,Hamburg HealthPoint #106,Germany,Hamburg,Hamburg,Suburban,2020-10-02,L,53.566158,9.999417
+PH0107,Bologna HealthPoint #107,Italy,Emilia-Romagna,Bologna,Suburban,2012-04-26,M,44.508126,11.336408
+PH0108,Brussels HealthPoint #108,Belgium,Brussels-Capital,Brussels,Rural,2012-01-14,M,50.865039,4.351197
+PH0109,Antwerp HealthPoint #109,Belgium,Flanders,Antwerp,Urban,2019-02-23,L,51.224739,4.392816
+PH0110,Rotterdam HealthPoint #110,Netherlands,South Holland,Rotterdam,Suburban,2015-10-12,S,51.925586,4.490302
+PH0111,Lyon HealthPoint #111,France,Auvergne-Rhône-Alpes,Lyon,Urban,2022-09-21,M,45.749601,4.826247
+PH0112,Hamburg HealthPoint #112,Germany,Hamburg,Hamburg,Suburban,2015-11-01,M,53.564624,9.989875
+PH0113,Frankfurt HealthPoint #113,Germany,Hesse,Frankfurt,Rural,2020-07-08,M,50.121739,8.66483
+PH0114,Barcelona HealthPoint #114,Spain,Catalonia,Barcelona,Urban,2013-03-03,M,41.380966,2.191563
+PH0115,Vienna HealthPoint #115,Austria,Vienna,Vienna,Urban,2025-12-13,M,48.208055,16.377674
+PH0116,Milan HealthPoint #116,Italy,Lombardy,Milan,Urban,2014-12-12,S,45.46402,9.197536
+PH0117,Kraków HealthPoint #117,Poland,Lesser Poland,Kraków,Rural,2018-07-17,L,50.048824,19.937584
+PH0118,Marseille HealthPoint #118,France,Provence-Alpes-Côte d'Azur,Marseille,Suburban,2018-02-25,M,43.305789,5.382062
+PH0119,Utrecht HealthPoint #119,Netherlands,Utrecht,Utrecht,Urban,2016-10-21,M,52.110207,5.139162
+PH0120,Naples HealthPoint #120,Italy,Campania,Naples,Urban,2023-04-07,M,40.861041,14.255804
