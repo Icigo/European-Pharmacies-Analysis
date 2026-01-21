@@ -6,9 +6,9 @@ Tableau Dashboard - [Link](https://public.tableau.com/app/profile/aditya.kar5369
   
   1. How do revenue, units sold, and margin change over time, and are there clear seasonal patterns?
   
-     <img width="373" height="311" alt="Screenshot 2026-01-21 125449" src="https://github.com/user-attachments/assets/39ac9a3e-b68b-4d93-ba7f-e0f282de3622" />
+      <img width="206" height="66" alt="Screenshot 2026-01-21 125556" src="https://github.com/user-attachments/assets/feef136c-5d66-444a-83ba-ae8abaf5a376" />
 
-     <img width="206" height="66" alt="Screenshot 2026-01-21 125556" src="https://github.com/user-attachments/assets/feef136c-5d66-444a-83ba-ae8abaf5a376" />
+      <img width="373" height="311" alt="Screenshot 2026-01-21 125449" src="https://github.com/user-attachments/assets/39ac9a3e-b68b-4d93-ba7f-e0f282de3622" />
 
   3. Which countries and regions contribute the most to total revenue and margin?
   
