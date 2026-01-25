@@ -1,6 +1,6 @@
 # European-Pharmacies-Analysis
 
-Tableau Dashboard - [Link](https://public.tableau.com/app/profile/aditya.kar5369/viz/PharmacyDashboardinEurope/Dashboard1?publish=yes)
+Tableau Dashboard - [Link](https://public.tableau.com/app/profile/aditya.kar5369/viz/PharmacyDashboardinEurope/Dashboard)
 
 ### Key Questions:
   
